@@ -9,11 +9,17 @@
 package bw.co.roguesystems.life.domain;
 
 import java.util.Collection;
+
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.context.MessageSource;
 import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
+
+import bw.co.roguesystems.life.RoguelifeSpecifications;
 
 /**
  * @see bw.co.roguesystems.life.domain.DomainService
@@ -24,13 +30,13 @@ public class DomainServiceImpl
     extends DomainServiceBase
 {
     public DomainServiceImpl(
-        DomainDao domain,
+        DomainDao domainDao,
         DomainRepository domainRepository,
         MessageSource messageSource
     ) {
         
         super(
-            domain,
+            domainDao,
             domainRepository,
             messageSource
         );
@@ -43,8 +49,13 @@ public class DomainServiceImpl
     protected DomainVO handleFindById(Long id)
         throws Exception
     {
-        // TODO implement protected  DomainVO handleFindById(Long id)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleFindById(Long id) Not implemented!");
+
+        if(id == null) {
+            throw new IllegalArgumentException("DomainService.findById(Long id) - 'id' can not be null");
+        }
+
+        Domain domain = this.domainRepository.getReferenceById(id);
+        return this.domainDao.toDomainVO(domain);
     }
 
     /**
@@ -54,8 +65,9 @@ public class DomainServiceImpl
     protected Collection<DomainVO> handleGetAll()
         throws Exception
     {
-        // TODO implement protected  Collection<DomainVO> handleGetAll()
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleGetAll() Not implemented!");
+        Collection<Domain> all = this.domainRepository.findAll();
+
+        return this.domainDao.toDomainVOCollection(all);
     }
 
     /**
@@ -65,8 +77,9 @@ public class DomainServiceImpl
     protected Page handleGetAll(Integer pageNumber, Integer pageSize)
         throws Exception
     {
-        // TODO implement protected  Page handleGetAll(Integer pageNumber, Integer pageSize)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleGetAll(Integer pageNumber, Integer pageSize) Not implemented!");
+
+        Page<Domain> all = this.domainRepository.findAll(PageRequest.of(pageNumber, pageSize));
+        return all.map(this.domainDao::toDomainVO);
     }
 
     /**
@@ -76,8 +89,14 @@ public class DomainServiceImpl
     protected boolean handleRemove(Long id)
         throws Exception
     {
-        // TODO implement protected  boolean handleRemove(Long id)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleRemove(Long id) Not implemented!");
+
+        if(id == null) {
+            throw new IllegalArgumentException("DomainService.remove(Long id) - 'id' can not be null");
+        }
+
+        this.domainRepository.deleteById(id);
+
+        return true;
     }
 
     /**
@@ -87,8 +106,26 @@ public class DomainServiceImpl
     protected DomainVO handleSave(DomainVO domain)
         throws Exception
     {
-        // TODO implement protected  DomainVO handleSave(DomainVO domain)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleSave(DomainVO domain) Not implemented!");
+
+        if(domain == null) {
+            throw new IllegalArgumentException("DomainService.save(DomainVO domain) - 'domain' can not be null");
+        }
+
+        Domain domainEntity = this.domainDao.domainVOToEntity(domain);
+        domainEntity = this.domainRepository.save(domainEntity);
+
+        return this.domainDao.toDomainVO(domainEntity);
+    }
+
+    private Specification<Domain> getSpecification(String criteria) {
+        Specification<Domain> spec = null;
+
+        if(StringUtils.isNotBlank(criteria)) {
+            spec = RoguelifeSpecifications.<Domain>findByAttributeContainingIgnoreCase("code", criteria)
+                .or(RoguelifeSpecifications.<Domain>findByAttributeContainingIgnoreCase("name", criteria)); 
+        }
+
+        return spec;
     }
 
     /**
@@ -98,8 +135,10 @@ public class DomainServiceImpl
     protected Collection<DomainVO> handleSearch(String criteria)
         throws Exception
     {
-        // TODO implement protected  Collection<DomainVO> handleSearch(String criteria)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleSearch(String criteria) Not implemented!");
+        Specification<Domain> spec = this.getSpecification(criteria);
+
+        Collection<Domain> all = this.domainRepository.findAll(spec);
+        return this.domainDao.toDomainVOCollection(all);
     }
 
     /**
@@ -109,8 +148,10 @@ public class DomainServiceImpl
     protected Page handleSearch(Integer pageNumber, Integer pageSize, String criteria)
         throws Exception
     {
-        // TODO implement protected  Page handleSearch(Integer pageNumber, Integer pageSize, String criteria)
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.DomainService.handleSearch(Integer pageNumber, Integer pageSize, String criteria) Not implemented!");
+        Specification<Domain> spec = this.getSpecification(criteria);
+
+        Page<Domain> all = this.domainRepository.findAll(spec, PageRequest.of(pageNumber, pageSize));
+        return all.map(this.domainDao::toDomainVO);
     }
 
 }

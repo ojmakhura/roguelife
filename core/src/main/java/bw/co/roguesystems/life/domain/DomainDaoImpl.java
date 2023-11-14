@@ -6,7 +6,12 @@
  */
 package bw.co.roguesystems.life.domain;
 
+import java.util.Collection;
+
+import org.apache.commons.collections4.CollectionUtils;
 import org.springframework.stereotype.Repository;
+
+import bw.co.roguesystems.life.kingdom.KingdomVO;
 
 /**
  * @see Domain
@@ -36,6 +41,20 @@ public class DomainDaoImpl
         // TODO verify behavior of toDomainVO
         super.toDomainVO(source, target);
         // WARNING! No conversion for target.kingdoms (can't convert source.getKingdoms():bw.co.roguesystems.life.kingdom.Kingdom to bw.co.roguesystems.life.kingdom.KingdomVO
+        if(CollectionUtils.isNotEmpty(source.getKingdoms()))
+        {
+            Collection<KingdomVO> kingdomVOs = source.getKingdoms().stream()
+                                    .map(kingdom -> {
+                                        KingdomVO kingdomVO = new KingdomVO();
+                                        kingdomVO.setId(kingdom.getId());
+                                        kingdomVO.setName(kingdom.getName());
+                                        kingdomVO.setId(kingdom.getDomain().getId());
+                                        return kingdomVO;
+                                    
+                                    }).collect(java.util.stream.Collectors.toList());
+
+            target.setKingdoms(kingdomVOs);
+        }
     }
 
     /**
@@ -55,10 +74,6 @@ public class DomainDaoImpl
      */
     private Domain loadDomainFromDomainVO(DomainVO domainVO)
     {
-        // TODO implement loadDomainFromDomainVO
-        throw new UnsupportedOperationException("bw.co.roguesystems.life.domain.loadDomainFromDomainVO(DomainVO) not yet implemented.");
-
-        /* A typical implementation looks like this:
         if (domainVO.getId() == null)
         {
             return  Domain.Factory.newInstance();
@@ -67,7 +82,6 @@ public class DomainDaoImpl
         {
             return this.load(domainVO.getId());
         }
-        */
     }
 
     /**

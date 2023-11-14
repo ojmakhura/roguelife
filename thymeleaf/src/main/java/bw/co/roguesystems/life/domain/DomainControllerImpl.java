@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @see bw.co.roguesystems.life.domain.DomainController
  */
 @Controller
-@RequestMapping("/domain-controller")
+@RequestMapping("/domain")
 public class DomainControllerImpl
-    extends DomainControllerBase
+    extends DomainControllerBase 
 {
     /**
      * The serial version UID of this class. Needed for serialization.
@@ -34,7 +34,7 @@ public class DomainControllerImpl
         // populating value with dummy instance
         DomainVO domain = new DomainVO();
         domain.setKingdoms(null);
-        domain.setCode(null);
+        domain.setCode("test2");
         domain.setName(null);
         domain.setDescription(null);
         domain.setCreated(null);
@@ -43,6 +43,7 @@ public class DomainControllerImpl
         domain.setUpdatedBy(null);
         domain.setId(3355l);
         form.setDomain(domain);
+        model.addAttribute("editDomainForm", form);
     }
 
     /**
