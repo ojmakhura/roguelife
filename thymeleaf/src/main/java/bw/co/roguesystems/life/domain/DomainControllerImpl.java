@@ -20,7 +20,6 @@ public class DomainControllerImpl
     private static final long serialVersionUID = 3775531392146993789L;
 
     public DomainControllerImpl() {
-        
         super(
         );
     }
@@ -34,7 +33,7 @@ public class DomainControllerImpl
         // populating value with dummy instance
         DomainVO domain = new DomainVO();
         domain.setKingdoms(null);
-        domain.setCode("test2");
+        domain.setCode(null);
         domain.setName(null);
         domain.setDescription(null);
         domain.setCreated(null);
@@ -72,6 +71,7 @@ public class DomainControllerImpl
     @Override
     public void doSave(DoSaveForm form, Model model)
     {
+        System.out.println(form.getDomain());
         // populating value with dummy instance
         DomainVO domain = new DomainVO();
         domain.setKingdoms(null);

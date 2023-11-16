@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
-<body>
-    <footer th:fragment="footer">
+  <body>
+    <footer th:fragment="footer" class="footer">
+      <div class="copyright">
+        &copy; Copyright <strong><span>NiceAdmin</span></strong
+        >. All Rights Reserved
+      </div>
+      <div class="credits">
         <small th:text="#{footer.message}">Subtitle</small>
+      </div>
     </footer>
-</body>
+  </body>
 </html>
