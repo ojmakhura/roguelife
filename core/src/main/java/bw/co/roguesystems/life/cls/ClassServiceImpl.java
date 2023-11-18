@@ -9,6 +9,8 @@
 package bw.co.roguesystems.life.cls;
 
 import java.util.Collection;
+import java.util.Map;
+
 import org.springframework.context.MessageSource;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
@@ -111,6 +113,25 @@ public class ClassServiceImpl
     {
         // TODO implement protected  Page handleSearch(Integer pageNumber, Integer pageSize, String criteria)
         throw new UnsupportedOperationException("bw.co.roguesystems.life.cls.ClassService.handleSearch(Integer pageNumber, Integer pageSize, String criteria) Not implemented!");
+    }
+
+    @Override
+    protected Collection<ClassVO> handleGetPhylumClasses(Long phylumId) throws Exception {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleGetPhylumClasses'");
+    }
+
+    @Override
+    protected Page<ClassVO> handleGetPhylumClassesPaged(Long phylumId, Integer pageSize, Integer pageNumber)
+            throws Exception {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleGetPhylumClassesPaged'");
+    }
+
+    @Override
+    protected ClassVO handleUpdate(Long id, Map<String, Object> updateValues) throws Exception {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleUpdate'");
     }
 
 }

@@ -111,8 +111,11 @@ public class DomainServiceImpl
             throw new IllegalArgumentException("DomainService.save(DomainVO domain) - 'domain' can not be null");
         }
 
+        System.out.println("==> " + domain);
+
         Domain domainEntity = this.domainDao.domainVOToEntity(domain);
         domainEntity = this.domainRepository.save(domainEntity);
+        System.out.println(this.domainDao.toDomainVO(domainEntity));
 
         return this.domainDao.toDomainVO(domainEntity);
     }
@@ -152,6 +155,12 @@ public class DomainServiceImpl
 
         Page<Domain> all = this.domainRepository.findAll(spec, PageRequest.of(pageNumber, pageSize));
         return all.map(this.domainDao::toDomainVO);
+    }
+
+    @Override
+    protected DomainVO handleUpdate(DomainVO domain) throws Exception {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'handleUpdate'");
     }
 
 }
