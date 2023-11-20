@@ -278,6 +278,36 @@
                 <artifactId>thymeleaf-extras-springsecurity6</artifactId>
                 <version>3.1.2.RELEASE</version>
             </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-policy-enforcer</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-common</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-core</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-admin-client</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-admin-client-jee</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.keycloak</groupId>
+                <artifactId>keycloak-test-helper</artifactId>
+                <version>${version.keycloak}</version>
+            </dependency>
 
             <!-- <dependency>
                 <groupId>org.springframework.boot</groupId>
@@ -367,6 +397,7 @@
     </modules>
     <properties>
         <andromda.version>5.0-SNAPSHOT</andromda.version>
+        <version.keycloak>22.0.1</version.keycloak>
         <downloadSources>true</downloadSources>
         <createChecksum>true</createChecksum>
         <uniqueVersion>false</uniqueVersion>

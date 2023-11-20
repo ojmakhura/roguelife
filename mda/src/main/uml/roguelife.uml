@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MagicDrawProfile="http://www.omg.org/spec/UML/20131001/MagicDrawProfile" xmlns:andromdacommon="http:///schemas/andromdacommon/_h_E8MIYwEe6zm7YLIJcn5g/0" xmlns:andromdapersistence="http:///schemas/andromdapersistence/_h_BR0IYwEe6zm7YLIJcn5g/0" xmlns:andromdapresentation="http:///schemas/andromdapresentation/_h_DHAIYwEe6zm7YLIJcn5g/0" xmlns:andromdaservice="http:///schemas/andromdaservice/_h--OgYYwEe6zm7YLIJcn5g/0" xmlns:andromdawebservice="http:///schemas/andromdawebservice/_h_DuEIYwEe6zm7YLIJcn5g/0" xmlns:andromdaxml="http:///schemas/andromdaxml/_h_ADsYYwEe6zm7YLIJcn5g/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:standard="http://www.eclipse.org/uml2/5.0.0/UML/Profile/Standard" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.omg.org/spec/UML/20131001/MagicDrawProfile UML_Standard_Profile.MagicDraw_Profile.profile.uml#_iL9ia4YwEe6zm7YLIJcn5g http:///schemas/andromdacommon/_h_E8MIYwEe6zm7YLIJcn5g/0 andromda-common.profile.uml#_iMAGEoYwEe6zm7YLIJcn5g http:///schemas/andromdapersistence/_h_BR0IYwEe6zm7YLIJcn5g/0 andromda-persistence.profile.uml#_iMAppYYwEe6zm7YLIJcn5g http:///schemas/andromdapresentation/_h_DHAIYwEe6zm7YLIJcn5g/0 andromda-presentation.profile.uml#_iL8VhYYwEe6zm7YLIJcn5g http:///schemas/andromdaservice/_h--OgYYwEe6zm7YLIJcn5g/0 andromda-service.profile.uml#_iL__DoYwEe6zm7YLIJcn5g http:///schemas/andromdawebservice/_h_DuEIYwEe6zm7YLIJcn5g/0 andromda-webservice.profile.uml#_iL_aYoYwEe6zm7YLIJcn5g http:///schemas/andromdaxml/_h_ADsYYwEe6zm7YLIJcn5g/0 andromda-xml.profile.uml#_iMAni4YwEe6zm7YLIJcn5g">
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MagicDrawProfile="http://www.omg.org/spec/UML/20131001/MagicDrawProfile" xmlns:andromdacommon="http:///schemas/andromdacommon/_JTvAsIfZEe6ol_V-OPUB7Q/0" xmlns:andromdapersistence="http:///schemas/andromdapersistence/_JT4xsIfZEe6ol_V-OPUB7Q/0" xmlns:andromdapresentation="http:///schemas/andromdapresentation/_JT2VcIfZEe6ol_V-OPUB7Q/0" xmlns:andromdaservice="http:///schemas/andromdaservice/_JT28gIfZEe6ol_V-OPUB7Q/0" xmlns:andromdawebservice="http:///schemas/andromdawebservice/_JT3jkIfZEe6ol_V-OPUB7Q/0" xmlns:andromdaxml="http:///schemas/andromdaxml/_JTvnwIfZEe6ol_V-OPUB7Q/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:standard="http://www.eclipse.org/uml2/5.0.0/UML/Profile/Standard" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.omg.org/spec/UML/20131001/MagicDrawProfile UML_Standard_Profile.MagicDraw_Profile.profile.uml#_Je7FBYfZEe6ol_V-OPUB7Q http:///schemas/andromdacommon/_JTvAsIfZEe6ol_V-OPUB7Q/0 andromda-common.profile.uml#_Je7sfofZEe6ol_V-OPUB7Q http:///schemas/andromdapersistence/_JT4xsIfZEe6ol_V-OPUB7Q/0 andromda-persistence.profile.uml#_Je50yofZEe6ol_V-OPUB7Q http:///schemas/andromdapresentation/_JT2VcIfZEe6ol_V-OPUB7Q/0 andromda-presentation.profile.uml#_Je7BdIfZEe6ol_V-OPUB7Q http:///schemas/andromdaservice/_JT28gIfZEe6ol_V-OPUB7Q/0 andromda-service.profile.uml#_Je8SqIfZEe6ol_V-OPUB7Q http:///schemas/andromdawebservice/_JT3jkIfZEe6ol_V-OPUB7Q/0 andromda-webservice.profile.uml#_Je5wtIfZEe6ol_V-OPUB7Q http:///schemas/andromdaxml/_JTvnwIfZEe6ol_V-OPUB7Q/0 andromda-xml.profile.uml#_Je50NIfZEe6ol_V-OPUB7Q">
   <uml:Model xmi:id="eee_1045467100313_135436_1" name="RogueLifeModel" visibility="public" URI="" viewpoint="">
     <ownedComment xmi:id="_11_5_e240333_1154450477439_510234_1" annotatedElement="eee_1045467100313_135436_1" body="Author:Saratoga.&#xA;Created:01.08.06 18:41.&#xA;Title:.&#xA;Comment:.&#xA;"/>
     <packageImport xmi:id="_0primitiveTypesRogueLifeModel">
@@ -1413,6 +1413,11 @@
                   <ownedParameter xmi:id="_19_0_4_90e0298_1697120685177_730804_5938" name="" visibility="public" type="_9_0_1fe00f9_1119336925531_324247_52" direction="return"/>
                   <ownedParameter xmi:id="_19_0_4_90e0298_1697120685177_652387_5939" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59"/>
                 </ownedOperation>
+                <ownedOperation xmi:id="_19_0_4_90e0298_1700506609304_389312_6063" name="doDomainDetails" visibility="public">
+                  <ownedParameter xmi:id="_19_0_4_90e0298_1700506609306_58433_6064" name="" visibility="public" type="_9_0_1fe00f9_1119336925531_324247_52" direction="return"/>
+                  <ownedParameter xmi:id="_19_0_4_90e0298_1700507379625_931708_6169" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523"/>
+                  <ownedParameter xmi:id="_19_0_4_90e0298_1700507712458_12300_6256" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59"/>
+                </ownedOperation>
               </nestedClassifier>
               <region xmi:id="_19_0_4_90e0298_1697120684941_743545_5899" name="" visibility="public">
                 <transition xmi:id="_19_0_4_90e0298_1697120685179_918433_5952" name="" visibility="public" source="_19_0_4_90e0298_1697120685180_910953_5962" target="_19_0_4_90e0298_1697120685180_944109_5963">
@@ -1450,7 +1455,10 @@
                 </transition>
                 <transition xmi:id="_19_0_4_90e0298_1697120685179_91877_5957" name="" visibility="public" source="_19_0_4_90e0298_1697120685181_659683_5969" target="_19_0_4_90e0298_1697120685181_370174_5968">
                   <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1697120685189_567433_6007" name="search" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1697120686344_767648_6206">
-                    <ownedParameter xmi:id="_19_0_4_90e0298_1697120686161_183002_6184" name="criteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66"/>
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1697120686161_183002_6184" name="criteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66">
+                      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_19_0_4_90e0298_1700443833157_441254_6040" name="" visibility="public"/>
+                      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_19_0_4_90e0298_1700443833160_873476_6041" name="" visibility="public" value="1"/>
+                    </ownedParameter>
                     <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1697120686344_767648_6206" name="searchCriteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66" parameter="_19_0_4_90e0298_1697120686161_183002_6184"/>
                   </effect>
                 </transition>
@@ -1460,7 +1468,10 @@
                       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_19_0_4_90e0298_1697120687823_141447_6439" name="" visibility="public"/>
                       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_19_0_4_90e0298_1697120687823_694133_6438" name="" visibility="public" value="*"/>
                     </ownedParameter>
-                    <ownedParameter xmi:id="_19_0_4_90e0298_1697120686344_769333_6208" name="criteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66"/>
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1697120686344_769333_6208" name="criteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66">
+                      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_19_0_4_90e0298_1700443844972_713247_6042" name="" visibility="public"/>
+                      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_19_0_4_90e0298_1700443844972_618481_6043" name="" visibility="public" value="1"/>
+                    </ownedParameter>
                     <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1697120686537_658357_6230" name="licenseType" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523" parameter="_19_0_4_90e0298_1697120686344_421481_6207"/>
                     <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1697120686537_952269_6231" name="searchCriteria" visibility="public" type="_9_0_1fe00f9_1119336925531_364079_66" parameter="_19_0_4_90e0298_1697120686344_769333_6208"/>
                   </effect>
@@ -1473,6 +1484,33 @@
                   <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1697120685190_41127_6010" name="create" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1697120686911_647406_6275">
                     <ownedParameter xmi:id="_19_0_4_90e0298_1697120686730_76444_6253" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59"/>
                     <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1697120686911_647406_6275" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59" parameter="_19_0_4_90e0298_1697120686730_76444_6253"/>
+                  </effect>
+                </transition>
+                <transition xmi:id="_19_0_4_90e0298_1700506625631_417269_6068" name="" visibility="public" source="_19_0_4_90e0298_1697120685180_970246_5964" target="_19_0_4_90e0298_1697120685181_137212_5966">
+                  <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1700506648408_577640_6069" name="details" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1700507487964_661718_6172">
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1700507487958_568713_6171" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523"/>
+                    <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1700507487964_661718_6172" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523" parameter="_19_0_4_90e0298_1700507487958_568713_6171"/>
+                  </effect>
+                </transition>
+                <transition xmi:id="_19_0_4_90e0298_1700506750494_341000_6123" name="" visibility="public" source="_19_0_4_90e0298_1697120685181_137212_5966" target="_19_0_4_90e0298_1700506720692_415970_6106">
+                  <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1700506759482_144659_6124" name="" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1700506889679_647547_6162">
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1700506889667_830402_6161" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523">
+                      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_19_0_4_90e0298_1700506901423_336002_6163" name="" visibility="public" value="1"/>
+                      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_19_0_4_90e0298_1700506901424_741542_6164" name="" visibility="public" value="1"/>
+                    </ownedParameter>
+                    <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1700506889679_647547_6162" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523" parameter="_19_0_4_90e0298_1700506889667_830402_6161"/>
+                  </effect>
+                </transition>
+                <transition xmi:id="_19_0_4_90e0298_1700507511192_798027_6175" name="" visibility="public" source="_19_0_4_90e0298_1697120685181_659683_5969" target="_19_0_4_90e0298_1697120685181_137212_5966">
+                  <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1700507542080_427351_6179" name="details" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1700507553151_684427_6213">
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1700507553147_387068_6212" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59"/>
+                    <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1700507553151_684427_6213" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59" parameter="_19_0_4_90e0298_1700507553147_387068_6212"/>
+                  </effect>
+                </transition>
+                <transition xmi:id="_19_0_4_90e0298_1700507534332_420341_6178" name="" visibility="public" source="_19_0_4_90e0298_1700506720692_415970_6106" target="_19_0_4_90e0298_1697120685180_944109_5963">
+                  <effect xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1700507595438_201011_6216" name="edit" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1700507607875_786362_6252">
+                    <ownedParameter xmi:id="_19_0_4_90e0298_1700507607872_744893_6251" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59"/>
+                    <node xmi:type="uml:ActivityParameterNode" xmi:id="_19_0_4_90e0298_1700507607875_786362_6252" name="id" visibility="public" type="_9_0_1fe00f9_1119336925531_227130_59" parameter="_19_0_4_90e0298_1700507607872_744893_6251"/>
                   </effect>
                 </transition>
                 <subvertex xmi:type="uml:Pseudostate" xmi:id="_19_0_4_90e0298_1697120685180_910953_5962" name="" visibility="public"/>
@@ -1496,10 +1534,10 @@
                     </node>
                   </doActivity>
                 </subvertex>
-                <subvertex xmi:type="uml:State" xmi:id="_19_0_4_90e0298_1697120685181_137212_5966" name="Save Domain" visibility="public">
-                  <doActivity xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1697120685190_815178_6014" name="Call doSave()" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1697120687455_903671_6341">
-                    <node xmi:type="uml:CallOperationAction" xmi:id="_19_0_4_90e0298_1697120687455_903671_6341" name="" visibility="public" operation="_19_0_4_90e0298_1697120684939_771619_5889">
-                      <argument xmi:id="_19_0_4_90e0298_1697120687824_791846_6456" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523"/>
+                <subvertex xmi:type="uml:State" xmi:id="_19_0_4_90e0298_1697120685181_137212_5966" name="Load Domain Details" visibility="public">
+                  <doActivity xmi:type="uml:Activity" xmi:id="_19_0_4_90e0298_1697120685190_815178_6014" name="Call doDomainDetails()" visibility="public" isReentrant="true" node="_19_0_4_90e0298_1697120687455_903671_6341">
+                    <node xmi:type="uml:CallOperationAction" xmi:id="_19_0_4_90e0298_1697120687455_903671_6341" name="" visibility="public" operation="_19_0_4_90e0298_1700506609304_389312_6063">
+                      <argument xmi:id="_19_0_4_90e0298_1700507379633_523840_6170" name="domain" visibility="public" type="_19_0_4_90e0298_1696515612364_95984_8523"/>
                       <result xmi:id="_19_0_4_90e0298_1697120687824_906339_6455" name="" visibility="public" type="_9_0_1fe00f9_1119336925531_324247_52"/>
                       <target xmi:id="_19_0_4_90e0298_1697120687824_845659_6454" name="target" visibility="public" type="_19_0_4_90e0298_1697120684938_686510_5886"/>
                     </node>
@@ -1523,6 +1561,7 @@
                   </doActivity>
                 </subvertex>
                 <subvertex xmi:type="uml:State" xmi:id="_19_0_4_90e0298_1697120685181_659683_5969" name="Search Domains" visibility="public"/>
+                <subvertex xmi:type="uml:State" xmi:id="_19_0_4_90e0298_1700506720692_415970_6106" name="Domain Details" visibility="public"/>
               </region>
             </ownedBehavior>
           </packagedElement>
@@ -1583,9 +1622,6 @@
           <packagedElement xmi:type="uml:Class" xmi:id="_19_0_4_90e0298_1696508927611_576931_5126" name="Example" visibility="public"/>
         </packagedElement>
       </packagedElement>
-    </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="magicdraw_uml_standard_profile_v_0001" name="UML Standard Profile" visibility="public" URI="">
-      <ownedComment xmi:id="_be00301_1078843546940_242228_131" annotatedElement="magicdraw_uml_standard_profile_v_0001" body="UML Standard Profile contains a UML metamodel (metaclasses without properties and associations), Standard UML stereotypes defined in the annex C of UML specification, validation suites for UML model correctness and completeness checking, and stereotypes used by MagicDraw internally."/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_19_0_3_90e0298_1644660574667_439922_4795" name="org.keycloak" visibility="public" URI="">
       <packagedElement xmi:type="uml:Package" xmi:id="_19_0_3_90e0298_1644660574668_90906_4796" name="adapters" visibility="public" URI="">
@@ -1715,521 +1751,528 @@
       <packagedElement xmi:type="uml:DataType" xmi:id="_19_0_3_90e0298_1670945613966_691823_4850" name="LocalDate" visibility="public"/>
       <packagedElement xmi:type="uml:DataType" xmi:id="_19_0_3_90e0298_1670945619297_671992_4871" name="LocalDateTime" visibility="public"/>
     </packagedElement>
-    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853175671_502460_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMBNFoYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-process.profile.uml#_iMABooYwEe6zm7YLIJcn5g"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="magicdraw_uml_standard_profile_v_0001" name="UML Standard Profile" visibility="public" URI="">
+      <ownedComment xmi:id="_be00301_1078843546940_242228_131" annotatedElement="magicdraw_uml_standard_profile_v_0001" body="UML Standard Profile contains a UML metamodel (metaclasses without properties and associations), Standard UML stereotypes defined in the annex C of UML specification, validation suites for UML model correctness and completeness checking, and stereotypes used by MagicDraw internally."/>
+    </packagedElement>
+    <profileApplication xmi:id="_8a70287_1078771814628_224704_589profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_Je8yhofZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-common.profile.uml#_Je7sfofZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
-      <appliedProfile href="andromda-process.profile.uml#_9_0_2_12ab03bf_1120853175671_502460_0"/>
-    </profileApplication>
-    <profileApplication xmi:id="_19_0_3_90e0298_1599848131891_860297_4795profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMBzEYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-service.profile.uml#_iL__DoYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="andromda-service.profile.uml#_19_0_3_90e0298_1599848131891_860297_4795"/>
-    </profileApplication>
-    <profileApplication xmi:id="_11_5_be00301_1153310565718_226811_161profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMDBMYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml#_iMACLIYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml#_11_5_be00301_1153310565718_226811_161"/>
-    </profileApplication>
-    <profileApplication xmi:id="_9_5_1_12ab03bf_1166891487968_530029_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMDoQYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-messaging.profile.uml#_iMAph4YwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="andromda-messaging.profile.uml#_9_5_1_12ab03bf_1166891487968_530029_0"/>
+      <appliedProfile href="andromda-common.profile.uml#_8a70287_1078771814628_224704_589"/>
     </profileApplication>
     <profileApplication xmi:id="_9_0_2_12ab03bf_1120852471296_986007_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMEPUYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-xml.profile.uml#_iMAni4YwEe6zm7YLIJcn5g"/>
+      <eAnnotations xmi:id="_Je9ZQYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-xml.profile.uml#_Je50NIfZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
       <appliedProfile href="andromda-xml.profile.uml#_9_0_2_12ab03bf_1120852471296_986007_0"/>
     </profileApplication>
-    <profileApplication xmi:id="_19_0beta_8bb027e_1484121177637_661582_4502profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iME2YYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.Find_By_Text.profile.uml#_iL_d4oYwEe6zm7YLIJcn5g"/>
+    <profileApplication xmi:id="_17_0_4beta_8ca0285_1361349406965_180847_3086profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_Je-AUYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml#_Je8QuIfZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
-      <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.Find_By_Text.profile.uml#_19_0beta_8bb027e_1484121177637_661582_4502"/>
-    </profileApplication>
-    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853774265_65497_87profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMGEgYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-persistence.profile.uml#_iMAppYYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="andromda-persistence.profile.uml#_9_0_2_12ab03bf_1120853774265_65497_87"/>
+      <appliedProfile href="UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml#_17_0_4beta_8ca0285_1361349406965_180847_3086"/>
     </profileApplication>
     <profileApplication xmi:id="_16_6_8f90291_1254846042821_86742_517profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMGrkYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.Traceability_customization.profile.uml#_iL_d8oYwEe6zm7YLIJcn5g"/>
+      <eAnnotations xmi:id="_Je_OcYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.Traceability_customization.profile.uml#_Je6b3YfZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
       <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.Traceability_customization.profile.uml#_16_6_8f90291_1254846042821_86742_517"/>
     </profileApplication>
     <profileApplication xmi:id="_11_5_f720368_1159529670215_231387_1profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMHSoYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.Validation_Profile.profile.uml#_iL7t4YYwEe6zm7YLIJcn5g"/>
+      <eAnnotations xmi:id="_Je_1gYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.Validation_Profile.profile.uml#_Je8OKofZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
       <appliedProfile href="UML_Standard_Profile.Validation_Profile.profile.uml#_11_5_f720368_1159529670215_231387_1"/>
     </profileApplication>
-    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853223187_211304_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMH5sYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-presentation.profile.uml#_iL8VhYYwEe6zm7YLIJcn5g"/>
+    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853175671_502460_0profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfAckYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-process.profile.uml#_Je8SHofZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
-      <appliedProfile href="andromda-presentation.profile.uml#_9_0_2_12ab03bf_1120853223187_211304_0"/>
-    </profileApplication>
-    <profileApplication xmi:id="_9_0_2_12ab03bf_1120852932765_76536_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMJH0YYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-webservice.profile.uml#_iL_aYoYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="andromda-webservice.profile.uml#_9_0_2_12ab03bf_1120852932765_76536_0"/>
-    </profileApplication>
-    <profileApplication xmi:id="_17_0_4beta_8ca0285_1361349406965_180847_3086profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMJu4YYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml#_iMAoIYYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="UML_Standard_Profile.Dependency_Matrix_Profile.profile.uml#_17_0_4beta_8ca0285_1361349406965_180847_3086"/>
-    </profileApplication>
-    <profileApplication xmi:id="_8a70287_1078771814628_224704_589profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMKV8YYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-common.profile.uml#_iMAGEoYwEe6zm7YLIJcn5g"/>
-      </eAnnotations>
-      <appliedProfile href="andromda-common.profile.uml#_8a70287_1078771814628_224704_589"/>
+      <appliedProfile href="andromda-process.profile.uml#_9_0_2_12ab03bf_1120853175671_502460_0"/>
     </profileApplication>
     <profileApplication xmi:id="_9_0_2_12ab03bf_1120852637390_857322_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMK9AYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="andromda-meta.profile.uml#_iMAnTIYwEe6zm7YLIJcn5g"/>
+      <eAnnotations xmi:id="_JfBDoYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-meta.profile.uml#_Je5wdYfZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
       <appliedProfile href="andromda-meta.profile.uml#_9_0_2_12ab03bf_1120852637390_857322_0"/>
     </profileApplication>
     <profileApplication xmi:id="_be00301_1073394351331_445580_2profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMMLIYYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.profile.uml#_iL9ia4YwEe6zm7YLIJcn5g"/>
+      <eAnnotations xmi:id="_JfBqsYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.profile.uml#_Je7FBYfZEe6ol_V-OPUB7Q"/>
       </eAnnotations>
       <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.profile.uml#_be00301_1073394351331_445580_2"/>
     </profileApplication>
+    <profileApplication xmi:id="_19_0beta_8bb027e_1484121177637_661582_4502profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfHKQYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.Find_By_Text.profile.uml#_Je6bzYfZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.Find_By_Text.profile.uml#_19_0beta_8bb027e_1484121177637_661582_4502"/>
+    </profileApplication>
+    <profileApplication xmi:id="_11_5_be00301_1153310565718_226811_161profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfHxUYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml#_Je5H0ofZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="UML_Standard_Profile.MagicDraw_Profile.DSL_Customization.profile.uml#_11_5_be00301_1153310565718_226811_161"/>
+    </profileApplication>
+    <profileApplication xmi:id="_9_5_1_12ab03bf_1166891487968_530029_0profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfIYYYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-messaging.profile.uml#_Je6dM4fZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="andromda-messaging.profile.uml#_9_5_1_12ab03bf_1166891487968_530029_0"/>
+    </profileApplication>
+    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853223187_211304_0profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfJmgYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-presentation.profile.uml#_Je7BdIfZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="andromda-presentation.profile.uml#_9_0_2_12ab03bf_1120853223187_211304_0"/>
+    </profileApplication>
+    <profileApplication xmi:id="_19_0_3_90e0298_1599848131891_860297_4795profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfKNkYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-service.profile.uml#_Je8SqIfZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="andromda-service.profile.uml#_19_0_3_90e0298_1599848131891_860297_4795"/>
+    </profileApplication>
+    <profileApplication xmi:id="_9_0_2_12ab03bf_1120852932765_76536_0profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfK0oYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-webservice.profile.uml#_Je5wtIfZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="andromda-webservice.profile.uml#_9_0_2_12ab03bf_1120852932765_76536_0"/>
+    </profileApplication>
+    <profileApplication xmi:id="_9_0_2_12ab03bf_1120853774265_65497_87profileApplicationRogueLifeModel">
+      <eAnnotations xmi:id="_JfLbsYfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="andromda-persistence.profile.uml#_Je50yofZEe6ol_V-OPUB7Q"/>
+      </eAnnotations>
+      <appliedProfile href="andromda-persistence.profile.uml#_9_0_2_12ab03bf_1120853774265_65497_87"/>
+    </profileApplication>
     <profileApplication xmi:id="_0profileApplicationRogueLifeModel">
-      <eAnnotations xmi:id="_iMXKSIYwEe6zm7YLIJcn5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <eAnnotations xmi:id="_JfRiWIfZEe6ol_V-OPUB7Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/uml2/5.0.0/UML/Profile/Standard#/"/>
       </eAnnotations>
       <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
     </profileApplication>
   </uml:Model>
-  <andromdaservice:Service xmi:id="_iMP1gIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515612364_787986_8522"/>
-  <andromdaservice:Service xmi:id="_iMP1gYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696518420830_104409_10084"/>
-  <andromdaservice:Service xmi:id="_iMP1goYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517960143_905819_9615"/>
-  <andromdaservice:Service xmi:id="_iMP1g4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517526203_87467_9146"/>
-  <andromdaservice:Service xmi:id="_iMP1hIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521425_493897_6745"/>
-  <andromdaservice:Service xmi:id="_iMP1hYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521421_965992_6716"/>
-  <andromdaservice:Service xmi:id="_iMP1hoYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521431_768705_6774"/>
-  <andromdaservice:Service xmi:id="_iMP1h4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521416_425917_6684"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1iIYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696518420840_766852_10131"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1iYYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696518420839_953046_10127"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1ioYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696517960150_193083_9658"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1i4YwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696517960150_699733_9662"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1jIYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696517526213_917102_9193"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1jYYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696517526213_589775_9189"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1joYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515612367_128141_8548"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1j4YwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515612367_635598_8544"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1kIYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521447_57149_6908"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1kYYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521447_937716_6904"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1koYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521439_155940_6845"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1k4YwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521442_739671_6880"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1lIYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521442_202862_6876"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1lYYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521436_854164_6822"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1loYwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521436_30945_6818"/>
-  <andromdaservice:ServiceOperation xmi:id="_iMP1l4YwEe6zm7YLIJcn5g" base_Operation="_19_0_4_90e0298_1696515521439_607382_6849"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHM4YwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1645257711066_59882_4820"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHNIYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1645257717692_171251_4821"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHNYYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1645258148090_775189_4881"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHNoYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644660574668_419999_4797"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHN4YwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644660574671_549823_4801"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHOIYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1645257666912_384001_4819"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHOYYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644660574668_36958_4798"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHOoYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644660574667_439922_4795"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHO4YwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644660574668_90906_4796"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHPIYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696508826829_987502_4878"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHPYYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696508820885_577642_4877"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHPoYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647340378372_698346_4812"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHP4YwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647342635470_730239_4872"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHQIYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647343893116_32445_5000"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHQYYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647343884802_483206_4999"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHQoYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647343872989_216857_4998"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHQ4YwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647343862964_412097_4997"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUHRIYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647342708464_347206_4934"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuAIYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1647342603365_579290_4813"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuAYYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644661610360_816173_4797"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuAoYwEe6zm7YLIJcn5g" base_Package="_19_0_3_90e0298_1644661611035_757178_4823"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuA4YwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696518420830_569773_10081"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuBIYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696517960142_508643_9612"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuBYYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696517526202_748153_9143"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuBoYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515552311_271527_8498"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuB4YwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515521416_48112_6681"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuCIYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515521416_405843_6680"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuCYYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515521416_949_6679"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuCoYwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515521415_302590_6678"/>
-  <andromdaxml:XmlSchema xmi:id="_iMUuC4YwEe6zm7YLIJcn5g" base_Package="_19_0_4_90e0298_1696515419978_50382_4814"/>
-  <andromdapersistence:Entity xmi:id="_iMUuDIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696518420830_636490_10082"/>
-  <andromdapersistence:Entity xmi:id="_iMUuDYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515612364_184433_8520"/>
-  <andromdapersistence:Entity xmi:id="_iMUuDoYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517960143_83893_9613"/>
-  <andromdapersistence:Entity xmi:id="_iMUuD4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521425_70605_6743"/>
-  <andromdapersistence:Entity xmi:id="_iMUuEIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517526203_747186_9144"/>
-  <andromdapersistence:Entity xmi:id="_iMUuEYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521431_961095_6772"/>
-  <andromdapersistence:Entity xmi:id="_iMUuEoYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521416_742134_6682"/>
-  <andromdapersistence:Entity xmi:id="_iMUuE4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521421_380893_6713"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuFIYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125461822_941141_7135"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuFYYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125719896_969784_7169"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuFoYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125727810_324017_7176"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuF4YwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125729698_420783_7182"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuGIYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125714740_614442_7157"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuGYYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125712448_39513_7151"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuGoYwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125717805_249570_7163"/>
-  <andromdapersistence:Identifier xmi:id="_iMUuG4YwEe6zm7YLIJcn5g" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125733390_792786_7189"/>
-  <andromdapersistence:PersistentClass xmi:id="_iMUuHIYwEe6zm7YLIJcn5g" andromda_persistence_table="orders" base_Class="_19_0_4_90e0298_1696515521425_70605_6743"/>
-  <andromdapersistence:PersistentClass xmi:id="_iMUuHYYwEe6zm7YLIJcn5g" andromda_persistence_table="class" base_Class="_19_0_4_90e0298_1696515521416_742134_6682"/>
-  <standard:ModelLibrary xmi:id="_iMYYYIYwEe6zm7YLIJcn5g" base_Package="_9_0_1fe00f9_1119336925546_238419_77"/>
-  <standard:ModelLibrary xmi:id="_iMYYZIYwEe6zm7YLIJcn5g" base_Package="eee_1045467100313_135436_1"/>
-  <andromdapresentation:FrontEndApplication xmi:id="_iMjXgYYwEe6zm7YLIJcn5g" base_UseCase="_19_0_4_90e0298_1697120684933_331037_5877"/>
-  <andromdapresentation:FrontEndUseCase xmi:id="_iMjXgoYwEe6zm7YLIJcn5g" andromda_presentation_web_action_form_key="" base_UseCase="_19_0_4_90e0298_1697120684933_331037_5877" andromda_presentation_path="/domain" andromda_presentation_substitution_name="Domain"/>
-  <andromdapresentation:FrontEndView xmi:id="_iMjXg4YwEe6zm7YLIJcn5g" base_State="_19_0_4_90e0298_1697120685180_970246_5964"/>
-  <andromdapresentation:FrontEndView xmi:id="_iMjXhIYwEe6zm7YLIJcn5g" base_State="_19_0_4_90e0298_1697120685181_659683_5969"/>
-  <andromdapresentation:FrontEndAction xmi:id="_iMjXhYYwEe6zm7YLIJcn5g" andromda_presentation_web_action_tablelink="domains.id" andromda_presentation_web_action_type="hyperlink" base_Transition="_19_0_4_90e0298_1697120685179_297530_5956"/>
-  <andromdapresentation:FrontEndAction xmi:id="_iMjXhoYwEe6zm7YLIJcn5g" base_Transition="_19_0_4_90e0298_1697120685179_223095_5955" andromda_presentation_if="deleteUnrestricted"/>
-  <andromdapresentation:FrontEndController xmi:id="_iMjXh4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1697120684938_686510_5886" andromda_presentation_rest_path="/domain"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXiIYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="table" base_Property="_19_0_4_90e0298_1696515612367_50436_8550"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXiYYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="link" base_Parameter="_19_0_4_90e0298_1697120685978_515096_6159"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXioYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="hidden" base_Parameter="_19_0_4_90e0298_1697120685611_106700_6112"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXi4YwEe6zm7YLIJcn5g" base_Parameter="_19_0_4_90e0298_1697120685387_609449_6089"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXjIYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696518420840_142714_10136"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXjYYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696517960150_590607_9667"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXjoYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696517526213_105837_9198"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXj4YwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515612367_695717_8553"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXkIYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521439_435213_6840"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXkYYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521447_837642_6913"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXkoYwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521442_918229_6885"/>
-  <andromdapresentation:FrontEndField xmi:id="_iMjXk4YwEe6zm7YLIJcn5g" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521437_497798_6826"/>
-  <andromdapresentation:FrontEndTable xmi:id="_iMjXlIYwEe6zm7YLIJcn5g" andromda_presentation_view_table_columns="code,name" base_Class="_19_0_4_90e0298_1696515612364_95984_8523"/>
-  <andromdapresentation:FrontEndTable xmi:id="_iMjXlYYwEe6zm7YLIJcn5g" andromda_presentation_view_table="true" base_Parameter="_19_0_4_90e0298_1697120686344_421481_6207"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXloYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517960143_587288_9616" andromda_presentation_path="/genus" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXl4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515612364_95984_8523" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="domain"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXmIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696518420830_408364_10085" andromda_presentation_path="/genus" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXmYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517526203_343172_9147" andromda_presentation_path="/classification/class" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXmoYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521431_49429_6775" andromda_presentation_path="/classification/phylum" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXm4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521425_271649_6746" andromda_presentation_path="/classification/class" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXnIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521416_539142_6685" andromda_presentation_path="/classification/class" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdapresentation:FrontEndComponent xmi:id="_iMjXnYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521421_571819_6714" andromda_presentation_path="/kingdom" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
-  <andromdawebservice:WebService xmi:id="_iMjXnoYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/domain" base_Class="_19_0_4_90e0298_1697128197211_887264_7218"/>
-  <andromdawebservice:WebService xmi:id="_iMjXn4YwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/species" base_Class="_19_0_4_90e0298_1697128982406_97627_8122"/>
-  <andromdawebservice:WebService xmi:id="_iMjXoIYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/genus" base_Class="_19_0_4_90e0298_1697128309432_636399_7516"/>
-  <andromdawebservice:WebService xmi:id="_iMjXoYYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/family" base_Class="_19_0_4_90e0298_1697128261428_375771_7372"/>
-  <andromdawebservice:WebService xmi:id="_iMjXooYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/phylum" base_Class="_19_0_4_90e0298_1697128813584_141482_7978"/>
-  <andromdawebservice:WebService xmi:id="_iMjXo4YwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/order" base_Class="_19_0_4_90e0298_1697128683728_464990_7834"/>
-  <andromdawebservice:WebService xmi:id="_iMjXpIYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/class" base_Class="_19_0_4_90e0298_1696515521416_978260_6683"/>
-  <andromdawebservice:WebService xmi:id="_iMjXpYYwEe6zm7YLIJcn5g" andromda_REST="true" andromda_REST_path="/kingdom" base_Class="_19_0_4_90e0298_1697128595971_103819_7680"/>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXpoYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_227192_8127">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXp4YwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_628527_8129">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXqIYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_363499_7523">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXqYYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128982406_855083_8125">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXqoYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_314278_7521">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXq4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982406_659540_8123">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXrIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128309432_497980_7519">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXrYYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_710400_8126">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXroYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_18386_8128" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXr4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128982406_84050_8124">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXsIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128309432_414741_7518">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXsYYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_902732_7373">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMjXsoYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128261429_683765_7374">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-kIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128261429_463335_7375">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-kYYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_189209_7517">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-koYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_439654_7522" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-k4YwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_566247_7984" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-lIYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_772662_7520">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-lYYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_957453_7983">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-loYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_728366_7985">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-l4YwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_570148_7379">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-mIYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_430702_7376">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-mYYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_385683_7377">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-moYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128683729_279380_7837">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-m4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128197212_101941_7221">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-nIYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_678884_7378" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-nYYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_440799_7224" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-noYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595972_616766_7681">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-n4YwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_673190_7222">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-oIYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_747866_7225">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-oYYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128197211_823582_7220">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-ooYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_216019_7223">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-o4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197211_367467_7219">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-pIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128813585_750621_7981">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-pYYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_213354_7838">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-poYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_193894_7982">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-p4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128813585_32887_7980">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-qIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_282154_7979">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-qYYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_770153_7686" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-qoYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_110002_7687">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-q4YwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_569366_6812">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-rIYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_862476_7841">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-rYYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_782012_7839">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-roYwEe6zm7YLIJcn5g" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_955974_6814">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-r4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128683729_894910_7836">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-sIYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_234811_6813" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-sYYwEe6zm7YLIJcn5g" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_619126_7840" andromda_REST_path_static="true">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-soYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683728_312000_7835">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-s4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128595972_935974_7683">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-tIYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_775400_7684">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-tYYwEe6zm7YLIJcn5g" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_13625_7685">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-toYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128595972_168203_7682">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-t4YwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1696515521436_141248_6809">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-uIYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_237798_6808">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-uYYwEe6zm7YLIJcn5g" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_239107_6811">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceOperation xmi:id="_iMj-uoYwEe6zm7YLIJcn5g" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1696515521436_658653_6810">
-    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
-  </andromdawebservice:WebServiceOperation>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-u4YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128982407_811461_8151"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-vIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128982407_51075_8150"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-vYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128982407_853689_8152"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-voYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_376846_7396"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-v4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_254111_7397"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-wIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128261429_44311_7385"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-wYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_470227_7541"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-woYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_187764_8147"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-w4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_163027_8146"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-xIYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_453469_8138"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-xYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128982407_764686_8135"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-xoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696518420843_637743_10188"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-x4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_737887_8132"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-yIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128309433_906532_7544"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-yYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128309433_237119_7545"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-yoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128309433_833173_7546"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-y4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_979445_7243"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-zIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128197212_341165_7248"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-zYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_445278_7540"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-zoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128197212_169091_7246"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-z4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_814473_7532"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-0IYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309432_213918_7526"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-0YYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128683730_863738_7862"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-0oYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128309432_445478_7529"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-04YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696517960154_731786_9719"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-1IYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128261429_785549_7401"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-1YYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128683730_980677_7864"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMj-1oYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128261429_907192_7402"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkloIYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813586_234791_7988"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkloYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128261429_258968_7400"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklooYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813586_942249_7994"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklo4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813587_189815_8002"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklpIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128197212_652301_7231"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklpYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_727949_7228"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklpoYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_218111_7388"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklp4YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128813587_856750_8007"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklqIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128197212_707113_7247"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklqYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_107552_7382"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklqoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696517526216_349443_9250"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklq4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_640644_7242"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklrIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515612369_972780_8608"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklrYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_503635_7234"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklroYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128813587_937183_8006"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklr4YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1696515521450_666860_6951"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklsIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128813587_400637_8008"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklsYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813587_22604_8003"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklsoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521451_969986_6965"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkls4YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521459_784937_7196"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkltIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128813586_249426_7991"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkltYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_810528_7859"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkltoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128683730_693480_7863"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklt4YwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521453_187141_7031"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkluIYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_961641_7850"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkluYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_940727_7858"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkluoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128683729_293298_7847"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklu4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683729_937281_7844"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklvIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521456_30988_7121"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklvYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521450_378040_6950"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklvoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521450_517362_6949"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklv4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521449_759429_6931"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklwIYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128595975_143666_7710"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklwYYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128595975_871668_7709"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklwoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128595975_813446_7708"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklw4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_106471_7705"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklxIYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_656945_7704"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklxYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_270867_7696"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklxoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128595973_564_7693"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklx4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_660227_6946"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklyIYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_641805_6945"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklyYYwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595973_246151_7690"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMklyoYwEe6zm7YLIJcn5g" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1696515521449_345213_6934"/>
-  <andromdawebservice:WebServiceParam xmi:id="_iMkly4YwEe6zm7YLIJcn5g" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_912099_6937"/>
-  <andromdacommon:ValueObject xmi:id="_iMklzIYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517960143_587288_9616"/>
-  <andromdacommon:ValueObject xmi:id="_iMklzYYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515612364_95984_8523"/>
-  <andromdacommon:ValueObject xmi:id="_iMklzoYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696518420830_408364_10085"/>
-  <andromdacommon:ValueObject xmi:id="_iMklz4YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696517526203_343172_9147"/>
-  <andromdacommon:ValueObject xmi:id="_iMkl0IYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521431_49429_6775"/>
-  <andromdacommon:ValueObject xmi:id="_iMkl0YYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521452_532789_6995"/>
-  <andromdacommon:ValueObject xmi:id="_iMkl0oYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521425_271649_6746"/>
-  <andromdacommon:ValueObject xmi:id="_iMkl04YwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521416_539142_6685"/>
-  <andromdacommon:ValueObject xmi:id="_iMkl1IYwEe6zm7YLIJcn5g" base_Class="_19_0_4_90e0298_1696515521421_571819_6714"/>
-  <andromdacommon:Attribute xmi:id="_iMkl1YYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223180893_219419_6055">
-    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
-  </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl1oYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223155104_798701_5979">
-    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
-  </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl14YwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223155108_365722_5980">
+  <standard:ModelLibrary xmi:id="_JfSJYIfZEe6ol_V-OPUB7Q" base_Package="_9_0_1fe00f9_1119336925546_238419_77"/>
+  <standard:ModelLibrary xmi:id="_JfSwcYfZEe6ol_V-OPUB7Q" base_Package="eee_1045467100313_135436_1"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwcofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515612364_95984_8523"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwc4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517960143_587288_9616"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwdIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517526203_343172_9147"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwdYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696518420830_408364_10085"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwdofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521421_571819_6714"/>
+  <andromdacommon:ValueObject xmi:id="_JfSwd4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521416_539142_6685"/>
+  <andromdacommon:ValueObject xmi:id="_JfSweIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521452_532789_6995"/>
+  <andromdacommon:ValueObject xmi:id="_JfSweYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521431_49429_6775"/>
+  <andromdacommon:ValueObject xmi:id="_JfSweofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521425_271649_6746"/>
+  <andromdacommon:Attribute xmi:id="_JfSwe4fZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223180895_617256_6056">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl2IYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223180895_617256_6056">
-    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
-  </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl2YYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223185267_442463_6078">
-    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
-  </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl2oYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223185266_427436_6077">
+  <andromdacommon:Attribute xmi:id="_JfSwfIfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223155104_798701_5979">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl24YwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223190576_255671_6096">
+  <andromdacommon:Attribute xmi:id="_JfSwfYfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223155108_365722_5980">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl3IYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223190575_184014_6095">
-    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
-  </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl3YYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223159892_469163_6002">
+  <andromdacommon:Attribute xmi:id="_JfSwfofZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223190576_255671_6096">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl3oYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223159892_276444_6001">
+  <andromdacommon:Attribute xmi:id="_JfSwf4fZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223180893_219419_6055">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl34YwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223163089_744312_6020">
+  <andromdacommon:Attribute xmi:id="_JfSwgIfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223185267_442463_6078">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl4IYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223163089_663286_6019">
+  <andromdacommon:Attribute xmi:id="_JfSwgYfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223166392_514772_6037">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl4YYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223166392_514772_6037">
+  <andromdacommon:Attribute xmi:id="_JfSwgofZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223185266_427436_6077">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl4oYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223166393_670408_6038">
+  <andromdacommon:Attribute xmi:id="_JfSwg4fZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223190575_184014_6095">
+    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
+  </andromdacommon:Attribute>
+  <andromdacommon:Attribute xmi:id="_JfSwhIfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223196909_930464_6114">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl44YwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223196909_930464_6114">
+  <andromdacommon:Attribute xmi:id="_JfSwhYfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223159892_469163_6002">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Attribute xmi:id="_iMkl5IYwEe6zm7YLIJcn5g" base_Property="_19_0_4_90e0298_1697223196909_103548_6113">
+  <andromdacommon:Attribute xmi:id="_JfSwhofZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223159892_276444_6001">
     <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
   </andromdacommon:Attribute>
-  <andromdacommon:Generic xmi:id="_iMlMsIYwEe6zm7YLIJcn5g" base_Parameter="_19_0_4_90e0298_1700244324462_431971_6021">
+  <andromdacommon:Attribute xmi:id="_JfSwh4fZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223196909_103548_6113">
+    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
+  </andromdacommon:Attribute>
+  <andromdacommon:Attribute xmi:id="_JfTXgIfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223163089_744312_6020">
+    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
+  </andromdacommon:Attribute>
+  <andromdacommon:Attribute xmi:id="_JfTXgYfZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223163089_663286_6019">
+    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedDate</andromda_additionalAnnotations>
+  </andromdacommon:Attribute>
+  <andromdacommon:Attribute xmi:id="_JfTXgofZEe6ol_V-OPUB7Q" base_Property="_19_0_4_90e0298_1697223166393_670408_6038">
+    <andromda_additionalAnnotations>org.springframework.data.annotation.CreatedBy</andromda_additionalAnnotations>
+  </andromdacommon:Attribute>
+  <andromdacommon:Generic xmi:id="_JfTXg4fZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1700244324462_431971_6021">
     <andromda_generic_types>bw.co.roguesystems.life.cls.ClassVO</andromda_generic_types>
   </andromdacommon:Generic>
-  <andromdacommon:Generic xmi:id="_iMlMsYYwEe6zm7YLIJcn5g" base_Parameter="_19_0_4_90e0298_1700244607720_325054_6033">
+  <andromdacommon:Generic xmi:id="_JfTXhIfZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1700244607720_325054_6033">
     <andromda_generic_types>String</andromda_generic_types>
     <andromda_generic_types>Object</andromda_generic_types>
   </andromdacommon:Generic>
-  <andromdacommon:Parameter xmi:id="_iMlMsoYwEe6zm7YLIJcn5g" base_Parameter="_19_0_4_90e0298_1697120685387_609449_6089"/>
-  <andromdacommon:Parameter xmi:id="_iMlMs4YwEe6zm7YLIJcn5g" base_Parameter="_19_0_4_90e0298_1696515521451_146209_6968">
+  <andromdacommon:Parameter xmi:id="_JfTXhYfZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1697120686344_421481_6207"/>
+  <andromdacommon:Parameter xmi:id="_JfTXhofZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1697120685387_609449_6089"/>
+  <andromdacommon:Parameter xmi:id="_JfTXh4fZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1696515521451_146209_6968">
     <andromda_generic_types>bw.co.roguesystems.life.cls.ClassVO</andromda_generic_types>
   </andromdacommon:Parameter>
-  <MagicDrawProfile:auxiliaryResource xmi:id="_iMlMtIYwEe6zm7YLIJcn5g" base_Element="magicdraw_uml_standard_profile_v_0001"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXiIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1645257711066_59882_4820"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXiYfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1645257717692_171251_4821"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXiofZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1645258148090_775189_4881"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXi4fZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644660574668_419999_4797"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXjIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644660574671_549823_4801"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXjYfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1645257666912_384001_4819"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXjofZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644660574668_36958_4798"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXj4fZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644660574667_439922_4795"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXkIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644660574668_90906_4796"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXkYfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696508826829_987502_4878"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXkofZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696508820885_577642_4877"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXk4fZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647340378372_698346_4812"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXlIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647342635470_730239_4872"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXlYfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647343893116_32445_5000"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXlofZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647343884802_483206_4999"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXl4fZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647343872989_216857_4998"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXmIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647343862964_412097_4997"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXmYfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647342708464_347206_4934"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXmofZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1647342603365_579290_4813"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXm4fZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644661610360_816173_4797"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXnIfZEe6ol_V-OPUB7Q" base_Package="_19_0_3_90e0298_1644661611035_757178_4823"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXnYfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696518420830_569773_10081"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXnofZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696517960142_508643_9612"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXn4fZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696517526202_748153_9143"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXoIfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515552311_271527_8498"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXoYfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515521416_48112_6681"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXoofZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515521416_405843_6680"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXo4fZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515521416_949_6679"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXpIfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515521415_302590_6678"/>
+  <andromdaxml:XmlSchema xmi:id="_JfTXpYfZEe6ol_V-OPUB7Q" base_Package="_19_0_4_90e0298_1696515419978_50382_4814"/>
+  <MagicDrawProfile:auxiliaryResource xmi:id="_JfVz0ofZEe6ol_V-OPUB7Q" base_Element="magicdraw_uml_standard_profile_v_0001"/>
+  <andromdapresentation:FrontEndApplication xmi:id="_JfeWoIfZEe6ol_V-OPUB7Q" base_UseCase="_19_0_4_90e0298_1697120684933_331037_5877"/>
+  <andromdapresentation:FrontEndUseCase xmi:id="_JfeWoYfZEe6ol_V-OPUB7Q" andromda_presentation_web_action_form_key="" base_UseCase="_19_0_4_90e0298_1697120684933_331037_5877" andromda_presentation_path="/domain" andromda_presentation_substitution_name="Domain"/>
+  <andromdapresentation:FrontEndView xmi:id="_JfeWoofZEe6ol_V-OPUB7Q" base_State="_19_0_4_90e0298_1700506720692_415970_6106"/>
+  <andromdapresentation:FrontEndView xmi:id="_JfeWo4fZEe6ol_V-OPUB7Q" base_State="_19_0_4_90e0298_1697120685181_659683_5969"/>
+  <andromdapresentation:FrontEndView xmi:id="_JfeWpIfZEe6ol_V-OPUB7Q" base_State="_19_0_4_90e0298_1697120685180_970246_5964"/>
+  <andromdapresentation:FrontEndAction xmi:id="_JfeWpYfZEe6ol_V-OPUB7Q" base_Transition="_19_0_4_90e0298_1697120685179_223095_5955" andromda_presentation_if="deleteUnrestricted"/>
+  <andromdapresentation:FrontEndAction xmi:id="_JfeWpofZEe6ol_V-OPUB7Q" andromda_presentation_web_action_tablelink="domains.id" andromda_presentation_web_action_type="hyperlink" base_Transition="_19_0_4_90e0298_1697120685179_297530_5956"/>
+  <andromdapresentation:FrontEndController xmi:id="_JfeWp4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1697120684938_686510_5886" andromda_presentation_rest_path="/domain"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWqIfZEe6ol_V-OPUB7Q" andromda_presentation_view_field_readonly="true" base_Parameter="_19_0_4_90e0298_1700506889667_830402_6161"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWqYfZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1697120686344_421481_6207"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWqofZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="hidden" base_Parameter="_19_0_4_90e0298_1697120685611_106700_6112"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWq4fZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="link" base_Parameter="_19_0_4_90e0298_1697120685978_515096_6159"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWrIfZEe6ol_V-OPUB7Q" base_Parameter="_19_0_4_90e0298_1697120685387_609449_6089"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWrYfZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696518420840_142714_10136"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWrofZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696517960150_590607_9667"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWr4fZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696517526213_105837_9198"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWsIfZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="table" base_Property="_19_0_4_90e0298_1696515612367_50436_8550"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWsYfZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515612367_695717_8553"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWsofZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521439_435213_6840"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWs4fZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521447_837642_6913"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWtIfZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521442_918229_6885"/>
+  <andromdapresentation:FrontEndField xmi:id="_JfeWtYfZEe6ol_V-OPUB7Q" andromda_presentation_web_view_field_type="textarea" base_Property="_19_0_4_90e0298_1696515521437_497798_6826"/>
+  <andromdapresentation:FrontEndTable xmi:id="_JfeWtofZEe6ol_V-OPUB7Q" andromda_presentation_view_table="true" base_Parameter="_19_0_4_90e0298_1697120686344_421481_6207"/>
+  <andromdapresentation:FrontEndTable xmi:id="_JfeWt4fZEe6ol_V-OPUB7Q" andromda_presentation_view_table_columns="code,name" base_Class="_19_0_4_90e0298_1696515612364_95984_8523"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWuIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515612364_95984_8523" andromda_presentation_path="/classification/domain" andromda_presentation_filename="domain" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="domain"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWuYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517960143_587288_9616" andromda_presentation_path="/classification/genus" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="genus"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWuofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517526203_343172_9147" andromda_presentation_path="/classification/family" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="family"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWu4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696518420830_408364_10085" andromda_presentation_path="/classification/species" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="species"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWvIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521421_571819_6714" andromda_presentation_path="/classification/kingdom" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="kingdom"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWvYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521416_539142_6685" andromda_presentation_path="/classification/class" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWvofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521431_49429_6775" andromda_presentation_path="/classification/phylum" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="phylum"/>
+  <andromdapresentation:FrontEndComponent xmi:id="_JfeWv4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521425_271649_6746" andromda_presentation_path="/classification/order" andromda_presentation_generate_table="true" andromda_presentation_view_table_columns="code,name" andromda_presentation_beanName="order"/>
+  <andromdaservice:Service xmi:id="_JfeWwIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696518420830_104409_10084"/>
+  <andromdaservice:Service xmi:id="_JfeWwYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517960143_905819_9615"/>
+  <andromdaservice:Service xmi:id="_JfeWwofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517526203_87467_9146"/>
+  <andromdaservice:Service xmi:id="_Jfe9sIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515612364_787986_8522"/>
+  <andromdaservice:Service xmi:id="_Jfe9sYfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521421_965992_6716"/>
+  <andromdaservice:Service xmi:id="_Jfe9sofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521431_768705_6774"/>
+  <andromdaservice:Service xmi:id="_Jfe9s4fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521416_425917_6684"/>
+  <andromdaservice:Service xmi:id="_Jfe9tIfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521425_493897_6745"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9tYfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696518420840_766852_10131"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9tofZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696518420839_953046_10127"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9t4fZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696517960150_699733_9662"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9uIfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696517960150_193083_9658"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9uYfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515612367_128141_8548"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9uofZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696517526213_917102_9193"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9u4fZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696517526213_589775_9189"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9vIfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515612367_635598_8544"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9vYfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521439_155940_6845"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9vofZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521447_937716_6904"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9v4fZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521447_57149_6908"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9wIfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521442_202862_6876"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9wYfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521442_739671_6880"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9wofZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521439_607382_6849"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9w4fZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521436_30945_6818"/>
+  <andromdaservice:ServiceOperation xmi:id="_Jfe9xIfZEe6ol_V-OPUB7Q" base_Operation="_19_0_4_90e0298_1696515521436_854164_6822"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9xYfZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/family" base_Class="_19_0_4_90e0298_1697128261428_375771_7372"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9xofZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/species" base_Class="_19_0_4_90e0298_1697128982406_97627_8122"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9x4fZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/genus" base_Class="_19_0_4_90e0298_1697128309432_636399_7516"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9yIfZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/domain" base_Class="_19_0_4_90e0298_1697128197211_887264_7218"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9yYfZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/class" base_Class="_19_0_4_90e0298_1696515521416_978260_6683"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9yofZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/phylum" base_Class="_19_0_4_90e0298_1697128813584_141482_7978"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9y4fZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/order" base_Class="_19_0_4_90e0298_1697128683728_464990_7834"/>
+  <andromdawebservice:WebService xmi:id="_Jfe9zIfZEe6ol_V-OPUB7Q" andromda_REST="true" andromda_REST_path="/kingdom" base_Class="_19_0_4_90e0298_1697128595971_103819_7680"/>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe9zYfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128309432_497980_7519">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe9zofZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128261429_683765_7374">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe9z4fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128309432_414741_7518">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe90IfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128982406_855083_8125">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe90YfZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_628527_8129">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe90ofZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_18386_8128" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe904fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128982406_84050_8124">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe91IfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197211_367467_7219">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe91YfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1696515521436_141248_6809">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe91ofZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_227192_8127">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe914fZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982407_710400_8126">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe92IfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128982406_659540_8123">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe92YfZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_772662_7520">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe92ofZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_314278_7521">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe924fZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_363499_7523">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe93IfZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_439654_7522" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe93YfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683728_312000_7835">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe93ofZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_902732_7373">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe934fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1696515521436_658653_6810">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe94IfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128261429_463335_7375">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe94YfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128309432_189209_7517">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe94ofZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_570148_7379">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe944fZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_385683_7377">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe95IfZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_566247_7984" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe95YfZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_678884_7378" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe95ofZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128197211_823582_7220">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe954fZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128261429_430702_7376">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe96IfZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_216019_7223">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe96YfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_237798_6808">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe96ofZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128197212_101941_7221">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe964fZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_728366_7985">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe97IfZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_440799_7224" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe97YfZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_747866_7225">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe97ofZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128197212_673190_7222">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe974fZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_957453_7983">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jfe98IfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128813585_32887_7980">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkwIfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128813585_750621_7981">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkwYfZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_193894_7982">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkwofZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128813585_282154_7979">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffkw4fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595972_616766_7681">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Find access point by id&quot;, description = &quot;Get the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkxIfZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_213354_7838">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkxYfZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_862476_7841">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkxofZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_619126_7840" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffkx4fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128595972_168203_7682">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkyIfZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128683729_782012_7839">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkyYfZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128683729_279380_7837">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkyofZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_13625_7685">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffky4fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="POST" base_Operation="_19_0_4_90e0298_1697128683729_894910_7836">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Save Access Point&quot;, description = &quot;Save access point&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkzIfZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_770153_7686" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkzYfZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_775400_7684">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_JffkzofZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1697128595973_110002_7687">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffkz4fZEe6ol_V-OPUB7Q" andromda_REST_path="/" andromda_REST_request_type="DELETE" base_Operation="_19_0_4_90e0298_1697128595972_935974_7683">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Remove access point by id&quot;, description = &quot;Remove the access point with the given id&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffk0IfZEe6ol_V-OPUB7Q" andromda_REST_path="all" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_239107_6811">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get access points&quot;, description = &quot;Get all access points&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffk0YfZEe6ol_V-OPUB7Q" andromda_REST_path="search" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_569366_6812">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Points&quot;, description = &quot;Search access points based on the criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffk0ofZEe6ol_V-OPUB7Q" andromda_REST_path="/page/{pageNumber}/size/{pageSize}" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_234811_6813" andromda_REST_path_static="true">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Get Access Point Page&quot;, description = &quot;Get {pageSize} access points with for a particular {pageNumber}&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceOperation xmi:id="_Jffk04fZEe6ol_V-OPUB7Q" andromda_REST_path="/search/paged" andromda_REST_request_type="GET" base_Operation="_19_0_4_90e0298_1696515521436_955974_6814">
+    <andromda_additionalAnnotations>io.swagger.v3.oas.annotations.Operation(summary = &quot;Search Access Point&quot;, description = &quot;Get {pageSize} access points for a particular {pageNumber} given a search criteria&quot;)</andromda_additionalAnnotations>
+  </andromdawebservice:WebServiceOperation>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk1IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128309433_237119_7545"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk1YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128982407_811461_8151"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk1ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128982407_853689_8152"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk14fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_187764_8147"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk2IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_453469_8138"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk2YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128982407_51075_8150"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk2ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_163027_8146"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk24fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128982407_737887_8132"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk3IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128982407_764686_8135"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk3YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128261429_44311_7385"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk3ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696518420843_637743_10188"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk34fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_445278_7540"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk4IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_470227_7541"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk4YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128309433_833173_7546"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk4ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_218111_7388"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk44fZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128197212_652301_7231"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk5IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128309433_906532_7544"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk5YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_107552_7382"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk5ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128309432_445478_7529"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk54fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309433_814473_7532"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk6IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128309432_213918_7526"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk6YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696517960154_731786_9719"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk6ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_640644_7242"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk64fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_254111_7397"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk7IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128261429_258968_7400"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk7YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128261429_907192_7402"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk7ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128261429_785549_7401"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk74fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128261429_376846_7396"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk8IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696517526216_349443_9250"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk8YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521456_30988_7121"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk8ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683729_937281_7844"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk84fZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128197212_341165_7248"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk9IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128197212_169091_7246"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk9YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128197212_707113_7247"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk9ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_979445_7243"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk94fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_503635_7234"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk-IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128197212_727949_7228"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk-YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515612369_972780_8608"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk-ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128813587_856750_8007"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk-4fZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128813587_400637_8008"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk_IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128813587_937183_8006"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk_YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813587_22604_8003"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk_ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813587_189815_8002"/>
+  <andromdawebservice:WebServiceParam xmi:id="_Jffk_4fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813586_942249_7994"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfflAIfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128813586_249426_7991"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfflAYfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128813586_234791_7988"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfflAofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521459_784937_7196"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfflA4fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595973_246151_7690"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL0IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128683730_693480_7863"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL0YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128683730_863738_7862"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL0ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128683730_980677_7864"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL04fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_810528_7859"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL1IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_270867_7696"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL1YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_940727_7858"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL1ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128683729_293298_7847"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL14fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128683730_961641_7850"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL2IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521450_517362_6949"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL2YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1696515521450_666860_6951"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL2ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128595975_143666_7710"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL24fZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128595975_871668_7709"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL3IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1697128595975_813446_7708"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL3YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521451_969986_6965"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL3ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1697128595973_564_7693"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL34fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_106471_7705"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL4IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1697128595974_656945_7704"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL4YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_912099_6937"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL4ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521453_187141_7031"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL44fZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestBody" base_Parameter="_19_0_4_90e0298_1696515521449_345213_6934"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL5IfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521449_759429_6931"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL5YfZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_660227_6946"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL5ofZEe6ol_V-OPUB7Q" andromda_REST_param_type="RequestParam" base_Parameter="_19_0_4_90e0298_1696515521450_378040_6950"/>
+  <andromdawebservice:WebServiceParam xmi:id="_JfgL54fZEe6ol_V-OPUB7Q" andromda_REST_param_type="PathParam" base_Parameter="_19_0_4_90e0298_1696515521450_641805_6945"/>
+  <andromdapersistence:Entity xmi:id="_JfgL6IfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517526203_747186_9144"/>
+  <andromdapersistence:Entity xmi:id="_JfgL6YfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696518420830_636490_10082"/>
+  <andromdapersistence:Entity xmi:id="_JfgL6ofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696517960143_83893_9613"/>
+  <andromdapersistence:Entity xmi:id="_JfgL64fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521425_70605_6743"/>
+  <andromdapersistence:Entity xmi:id="_JfgL7IfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515612364_184433_8520"/>
+  <andromdapersistence:Entity xmi:id="_JfgL7YfZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521431_961095_6772"/>
+  <andromdapersistence:Entity xmi:id="_JfgL7ofZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521416_742134_6682"/>
+  <andromdapersistence:Entity xmi:id="_JfgL74fZEe6ol_V-OPUB7Q" base_Class="_19_0_4_90e0298_1696515521421_380893_6713"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL8IfZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125461822_941141_7135"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL8YfZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125719896_969784_7169"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL8ofZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125727810_324017_7176"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL84fZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125717805_249570_7163"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL9IfZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125729698_420783_7182"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL9YfZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125712448_39513_7151"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL9ofZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125714740_614442_7157"/>
+  <andromdapersistence:Identifier xmi:id="_JfgL94fZEe6ol_V-OPUB7Q" andromda_persistence_generator_type="SEQUENCE" base_Property="_19_0_4_90e0298_1697125733390_792786_7189"/>
+  <andromdapersistence:PersistentClass xmi:id="_JfgL-IfZEe6ol_V-OPUB7Q" andromda_persistence_table="orders" base_Class="_19_0_4_90e0298_1696515521425_70605_6743"/>
+  <andromdapersistence:PersistentClass xmi:id="_JfgL-YfZEe6ol_V-OPUB7Q" andromda_persistence_table="class" base_Class="_19_0_4_90e0298_1696515521416_742134_6682"/>
 </xmi:XMI>

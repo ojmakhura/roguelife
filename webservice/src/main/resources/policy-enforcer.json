@@ -1,0 +1,8 @@
+{
+    "realm": "roguelife",
+    "auth-server-url": "https://keycloak.roguedev.local",
+    "resource": "roguelife-api",
+    "credentials": {
+      "secret": "secret"
+    }
+  }

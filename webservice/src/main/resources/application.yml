@@ -5,6 +5,12 @@ server:
 spring:
     thymeleaf:
         cache: false
+    security:
+        oauth2:
+            resourceserver:
+                jwt:
+                    jwk-set-uri: https://keycloak.roguedev.local/realms/roguelife/protocol/openid-connect/certs
+                    issuer-uri: https://keycloak.roguedev.local/realms/roguelife
     mvc:
         format:
             date: iso

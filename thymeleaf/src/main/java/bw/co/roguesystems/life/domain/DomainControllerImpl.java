@@ -3,6 +3,8 @@
 package bw.co.roguesystems.life.domain;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Locale;
 
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -102,14 +104,40 @@ public class DomainControllerImpl
     @Override
     public void doInitialiseSearchScreen(Model model)
     {
-    }
+        Collection<DomainVO> domains = this.domainservice.search("");
+        getSearchDomainsForm().setDomains(domains);
+        System.out.println("==============");
+        System.out.println(domains);
+        model.addAttribute("domains", domains);
+        ArrayList<String> domainsColumns = new ArrayList<>();
+        domainsColumns.add("code");
+        domainsColumns.add("name");
+        model.addAttribute("domainsColumns", domainsColumns);
 
+        ArrayList<String> domainsLinks = new ArrayList<>();
+        domainsLinks.add("edit");
+        domainsLinks.add("delete");
+        model.addAttribute("domainsLinks", domainsLinks);
+
+        ArrayList<String> domainsActions = new ArrayList<>();
+        // domainsActions.add("code");
+        domainsActions.add("name");
+        model.addAttribute("domainsActions", domainsActions);  
+     
+    }
+ 
     /**
      * @see bw.co.roguesystems.life.domain.DomainController#doSearch(java.lang.String criteria)
      */
-    @Override
+    @Override   
     public void doSearch(DoSearchForm form, Model model)
     {
+        System.out.println(form.getCriteria());
+        Collection<DomainVO> domains = this.domainservice.search(form.getCriteria());
+        // model.addAttribute("domains", domains);
+        getSearchDomainsForm().setDomains(domains);
+        ((SearchDomainsSearchFormImpl)form).setDomains(domains); 
+        System.out.println(domains);
     }
 
     /**
